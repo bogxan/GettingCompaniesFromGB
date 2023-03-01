@@ -47,7 +47,7 @@ namespace GetCompanies
             string authInfo = Convert.ToBase64String(Encoding.Default.GetBytes(key));
             client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Basic", authInfo);
             HttpResponseMessage response = await client.GetAsync(url);
-            HttpContent content = response.Content;                                
+            HttpContent content = response.Content;
             Console.WriteLine("Response StatusCode: " + (int)response.StatusCode);
             string json = await content.ReadAsStringAsync();
             var res = JsonConvert.DeserializeObject<Company>(json);

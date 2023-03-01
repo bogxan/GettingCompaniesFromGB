@@ -16,7 +16,7 @@ namespace GetCompanies
 
         public override string ToString()
         {
-            return Postal_code+", "+Address_line_1+", "+Address_line_2+", "+Locality+", "+Country;
+            return Postal_code + ", " + Address_line_1 + ", " + Address_line_2 + ", " + Locality + ", " + Country;
         }
     }
 }
