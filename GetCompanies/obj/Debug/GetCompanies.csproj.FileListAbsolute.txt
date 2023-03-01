@@ -1,0 +1,11 @@
+C:\Users\shcho\OneDrive\Рабочий стол\Работа\GetCompanies\bin\Debug\GetCompanies.exe.config
+C:\Users\shcho\OneDrive\Рабочий стол\Работа\GetCompanies\bin\Debug\GetCompanies.exe
+C:\Users\shcho\OneDrive\Рабочий стол\Работа\GetCompanies\bin\Debug\GetCompanies.pdb
+C:\Users\shcho\OneDrive\Рабочий стол\Работа\GetCompanies\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shcho\OneDrive\Рабочий стол\Работа\GetCompanies\bin\Debug\Newtonsoft.Json.xml
+C:\Users\shcho\OneDrive\Рабочий стол\Работа\GetCompanies\obj\Debug\GetCompanies.csproj.AssemblyReference.cache
+C:\Users\shcho\OneDrive\Рабочий стол\Работа\GetCompanies\obj\Debug\GetCompanies.csproj.SuggestedBindingRedirects.cache
+C:\Users\shcho\OneDrive\Рабочий стол\Работа\GetCompanies\obj\Debug\GetCompanies.csproj.CoreCompileInputs.cache
+C:\Users\shcho\OneDrive\Рабочий стол\Работа\GetCompanies\obj\Debug\GetCompanies.csproj.CopyComplete
+C:\Users\shcho\OneDrive\Рабочий стол\Работа\GetCompanies\obj\Debug\GetCompanies.exe
+C:\Users\shcho\OneDrive\Рабочий стол\Работа\GetCompanies\obj\Debug\GetCompanies.pdb
